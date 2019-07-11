@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # A list of automation websites and vendors I use on a regular basis to purchase the parts I need.
 
 ## 1. [Automation Direct](https://www.automationdirect.com/)
@@ -21,3 +25,7 @@ In the company I work for, we use alot of Lenze VFDs. They are easy to program, 
 ## 5. [MotionUSA](http://www.motionusa.com)
 
 A lot name brand equipment and PLC's. You do have to create an account to see pricing but they have a lot of motion products you can't get from the previous mentioned websites. Pricing is fairly standard and you probably can get better pricing from your local vendor or at least better support.
+
+_yay_
+
+[back](./)
