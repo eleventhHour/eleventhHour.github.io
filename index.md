@@ -7,7 +7,7 @@ This is a place where I will put links to projects that I have done or I am cure
 ## B&R PLCs (aka br-automation or BR PLCs)
 I work as a professional PLC programmer of B&R PLCs as well as other manufacturers.
 
-## Where do you buy automation equipment? [./automationSalesWebsite.html]
+## [Where do you buy automation equipment? ](./automationSalesWebsite.html)
 
 If you have to do your on purchases, you might ask "where do I buy automation equipment." This is a list of online vendors you can use.
 
