@@ -13,4 +13,4 @@ If you have to do your on purchases, you might ask "where do I buy automation eq
 
 ## Ideas I am exploring
 
-[Emergency Fire Shelter](./emergencyfireshelter.html)
+### [Emergency Fire Shelter](./emergencyfireshelter.html)
